@@ -1,19 +1,19 @@
-# Rafael Rocha 
+### <div align="center">Olá, eu sou Rafael Rocha Maciel, Engenheiro da Computação e Mestrando em Ciência e tecnologia da computação 👨‍💻</div>  
 
-Graduado em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI). Através de experiências acadêmicas e profissional, desenvolvi soluções
-utilizando as seguintes tecnologias em projetos:
+📘Atualmente, meus estudos são focados em ciência de dados e inteligência artificial. <br>
+💻Admirador das melhores práticas para o desenvolvimento de aplicações centradas em dados.
 
-<img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+## Minhas habilidades
 
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+Ciência de dados utilizando <b>Python, Nmpy, Pandas e SQL</b>;<br>
+Aprendizado de máquina usando <b>Scikit-learn, TensorFlow e Mlflow</b>;<br>
+Computação em nuvem utilizando <b>AWS</b>; <br>
+Atualmente estudando a linguagem de programação <b>R</b> <br>
 
-<img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+Além disso, também já tive contato com <b>C/C++, Java, Javascript e MongoDB</b>.
 
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+## Conecte-se comigo 
 
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-
-
-## Contatos 
-
+<div align="center">
 <a href="https://www.linkedin.com/in/rafael-rocha-maciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

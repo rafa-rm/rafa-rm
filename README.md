@@ -5,10 +5,9 @@
 
 ## Minhas habilidades
 
-Ciência de dados utilizando <b>Python, Numpy, Pandas e SQL</b>;<br>
+Ciência de dados utilizando <b>Python, R, Numpy, Pandas e SQL</b>;<br>
 Aprendizado de máquina usando <b>Scikit-learn, TensorFlow e Mlflow</b>;<br>
 Computação em nuvem utilizando <b>AWS</b>; <br>
-Atualmente estudando a linguagem de programação <b>R</b> <br>
 
 Além disso, também já tive contato com <b>C/C++, Java, Javascript e MongoDB</b>.
 

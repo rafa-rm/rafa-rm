@@ -20,7 +20,8 @@
 
 ## 🚀 Projetos em Destaque
 
-* **[Agro-Forecaster](https://github.com/rafa-rm/Agro-Forecaster):** Data Lake automatizado construído na AWS para ingestão e processamento de dados de commodities agrícolas.
+- **[b3-bacen-copilot](https://github.com/rafa-rm/b3-bacen-copilot):** Copiloto macroeconômico que une um Data Warehouse da SELIC (`Airflow 3`, `PostgreSQL 18`, `dbt Core`) a um pipeline Hybrid RAG sobre atas do Copom (`LangGraph`, `ChromaDB`, `bge-m3`, `Streamlit`).
+- **[Agro-Forecaster](https://github.com/rafa-rm/Agro-Forecaster):** Pipeline serverless na AWS (`Lambda`, `S3`, `Athena`, `Terraform`) e modelos CNN-LSTM (`LiteRT`, `MLflow`) para ingestão e previsão de preços de commodities agrícolas.
 
     
 ## 📫 Conecte-se comigo 
